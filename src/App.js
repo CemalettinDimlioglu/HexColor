@@ -25,6 +25,6 @@ setHex(randomhex)
       </h4>
     </div>
   );
-}
+};
 
 export default App;
